@@ -6,6 +6,7 @@ body {
 
 .container {
   padding: 16px;
+  max-width: 650px;
 }
 
 .search {
